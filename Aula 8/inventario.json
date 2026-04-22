@@ -4,5 +4,11 @@
     "nome": "Tronco de madeira",
     "categoria": "Bloco",
     "quantidade": 1
+  },
+  {
+    "id": 1776858964963,
+    "nome": "Madeira",
+    "categoria": "Bloco de contrução",
+    "quantidade": 1
   }
 ]
